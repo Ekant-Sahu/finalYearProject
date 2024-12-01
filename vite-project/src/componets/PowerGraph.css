@@ -1,0 +1,21 @@
+.power-graph {
+  text-align: center;
+  padding: 20px;
+  background-color: #f4f4f4; /* Light background */
+  min-height: 100vh;
+}
+
+.graph-container {
+  margin: 20px auto;
+  max-width: 800px;
+  background: #ffffff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.error-message {
+  font-size: 1.2rem;
+  color: #ff4d4f; /* Red color for error */
+  margin: 20px 0;
+}

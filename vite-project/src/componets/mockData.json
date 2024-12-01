@@ -1,0 +1,29 @@
+[
+    {
+      "date": "2024-12-01",
+      "records": [
+        {
+          "hours": 0,
+          "minutes": 0,
+          "irrad": 0,
+          "cell_temperature": 19,
+          "predicted_power": 0
+        },
+        {
+          "hours": 1,
+          "minutes": 0,
+          "irrad": 10,
+          "cell_temperature": 19.5,
+          "predicted_power": 2
+        },
+        {
+          "hours": 2,
+          "minutes": 0,
+          "irrad": 50,
+          "cell_temperature": 20.2,
+          "predicted_power": 20
+        }
+      ]
+    }
+  ]
+  
